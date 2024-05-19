@@ -6,7 +6,7 @@
 *Cultura Digital - Grau Multimedia - 27/05/2024*
 
 ___
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Lev Manovich](https://alchetron.com/cdn/lev-manovich-8d6f0602-616d-490b-9c8b-fb85ed03a2e-resize-750.jpg) 
 
 
 
@@ -18,13 +18,16 @@ Manovich, en la seva obra, afirma que la hibridació es refereix a la combinaci�
 
 L’autor afirma que una part important de la hibridació és que els nous mitjans digitals no només reemplacen els mitjans tradicionals, sinó que els transformen i combinen en noves formes. 
 
-Un exemple que Manovich esmenta és Google Earth, on es combina fotografia aèria, imatges satel·litàries, gràfics 3D i altres mitjans per produir una representació híbrida del planeta Terra.
+Un exemple que Manovich esmenta és Google Earth, on es combina fotografia aèria, imatges satel·litàries, gràfics 3D i altres mitjans per produir una representació híbrida del planeta Terra. En aquests exemples ens adonem que estem convivint constantment al voltant de la hibridació.
 
-En resum, l'assaig de Manovich sobre la hibridació de mitjans ajuda a comprendre millor com les noves tecnologies creen noves formes d'expressió cultural i com la fusió de diferents mitjans i llenguatges està canviant com percebem i interpretem el món. Per tant, en aquest assaig farem ús d’aquesta teoría per comentar dos exemples: el joc de Pokémon GO i la plataforma d’alquiler de habitatges vacacionals Airbnb.
+>Convivim amb multitud d'exemples d'híbrids de mitjans: els trobarem en les interfícies d'usuari, les aplicacions web, les apps mòbils, el disseny visual,
+>el disseny interactiu, els efectes visuals, els mitjans locatius, els entorns interactius, l'art digital i altres àmbits de la cultura digital. **Lev Manovich,
+>El Programari pren el comandament**
+
+En conclusió, l'assaig de Manovich sobre la hibridació de mitjans ajuda a comprendre millor com les noves tecnologies creen noves formes d'expressió cultural i com la fusió de diferents mitjans i llenguatges està canviant com percebem i interpretem el món. Per tant, en aquest assaig farem ús d’aquesta teoría per comentar dos exemples que tots nosaltres coneixem: el joc de **Pokémon GO** i la plataforma d’alquiler de habitatges vacacionals **Airbnb**.
 
 
-
-## Re-descobrint la hibridació: Pokémon GO
+## Cas 1: Pokémon GO
 
 Pokémon GO, desenvolupat per Niantic Inc, és un exemple extraordinari de com la hibridació de mitjans ha revolucionat i transformat l'experiència dels videojocs al fusionar el mon virtual i el mon real. 
 
@@ -34,32 +37,56 @@ Aquest joc combina elements de realitat augmentada (AR) amb geolocalització, in
 
 L'aplicació utilitza el GPS del dispositiu mòbil del jugador per ubicar la seva posició al món real i col·locar Pokémons virtuals en ubicacions específiques del món real, com ara parcs, monuments i punts de referència. 
 
+![GPS PokémonGO](https://th.bing.com/th/id/R.15386d964717693917361dc0d848665c?rik=1ynk24TaVuaQYg&riu=http%3a%2f%2ftechguide.com.au%2fwp-content%2fuploads%2f2016%2f07%2fpokemongo3.jpg&ehk=bXepqdry7TKFpmifAHr7y%2fkpu0fYsZjsay%2bwBS2xyR4%3d&risl=&pid=ImgRaw&r=0) 
+>Captura de l'aplicació *Pokémon GO*, realitat augmentada / mapa del terreny
+
 Aquesta combinació de tecnologia d'ubicació i realitat augmentada crea una experiència de joc immersiva que desdibuixa els límits entre allò virtual i allò real permetent als jugadors interactuar amb Pokémon en entorns físics reals. Aquesta capacitat dins del joc converteix els carrers, parcs i llocs emblemàtics en escenaris de joc accentuant les capacitats d’aquest joc gracies a la hibridació de medis.
 
 A més, Pokémon GO fomenta la interacció social i la col·laboració entre els jugadors mitjançant la incorporació d'elements de joc comunitari. Els jugadors poden unir-se a equips, participar en incursions i esdeveniments en viu, a demés de interactuar amb altres jugadors al món real mentre busquen Pokémon junts. Aquesta dimensió social del joc afegeix una capa addicional d'hibridació en facilitar la interacció entre allò digital i allò social, creant així una experiència de joc col·laborativa.
 
 Un altre aspecte destacat de la hibridació a Pokémon GO és la seva capacitat per guiar al jugador a descobrir l’entorn que els envolta. A mesura que els jugadors exploren el món real a la recerca de Pokémons, descobreixen noves ubicacions, monuments i llocs d'interès a les seves comunitats locals. Aquesta interacció permet als jugadors descobrir i apreciar el món que els envolta d'una manera nova. Per tant, Pokémon GO incorpora addicionalment una capa de descobriment i aventura dins del joc, fet que l’aventura no solament es trobi dins del joc sinó també al món real.
 
+![PokémonGO](https://ichef.bbci.co.uk/news/624/cpsprodpb/14AE3/production/_92070748_istock_101066093_large.jpg)
+>Captura de l'aplicació *Pokémon GO*, interacció amb el mon real a través de l'aplicació
+
 En conclusió, Pokémon GO exemplifica com la hibridació transforma l'experiència de joc en fusionar el món virtual amb el món real a través de la integració de tecnologia de geolocalització, realitat augmentada, elements de joc comunitari i exploració de l'entorn físic. 
-En analitzar Pokémon GO a través del prisma de Manovich, podem apreciar com la hibridació de totes aquestes tecnologies redefineix la manera com interactuem amb els jocs i com aquests s'integren per crear un joc únic basat en tecnologies i medis existents. 
+En analitzar Pokémon GO a través del prisma de Manovich, podem apreciar com redefineix la manera com interactuem amb els jocs i com aquestes tecnologies s'integren per crear un joc únic basat en medis existents. 
 
+| RESUM  |   |
+| -- | -- |
+| Realitat Augmentada | **Combina mons físics i digitals, visualització de Pokémons, capturar Pokémons en RA** |
+| Geolocalització | **Mapa basat en Google Maps, Pokeparades, gimnasos, events basats en ubicacions reals** |
+| Interacció social digital | **Batalles de Pokémons i inercanvis amb altres jugadors** |
+| Gamificació de l'activitat física | **Els jugadors han de caminar per a jugar al joc, medalles per distancia recorreguda** |
 
+## Cas 2: Airbnb
 
-
-## Re-descobrint la hibridació: Airbnb
-
-Després d'analitzar la hibridació en Pokémon GO, és interessant explorar com Airbnb, una plataforma d'alquiler vacacional, exemplifica els conceptes de hibridació de mitjans segons Lev Manovich, encara que de manera diferent. Airbnb és un exemple destacat de com la convergència de tecnologia digital amb les pràctiques tradicionals d'allotjament ha transformat el sector del turisme.
+Després d'analitzar la hibridació en l'aplicació de Pokémon GO, és interessant explorar com Airbnb, una plataforma d'alquiler vacacional, exemplifica els conceptes de hibridació de mitjans segons Lev Manovich, encara que de manera diferent. Airbnb és un exemple destacat de com la convergència de tecnologia digital amb les pràctiques tradicionals d'allotjament ha transformat el sector del turisme.
 
 Airbnb permet als viatgers trobar i llogar allotjaments únics en llocs de tot el món, a través de la combinació de diversos elements tecnològics i socials. Aquesta plataforma combina diferents formats de mitjans, incloent text, imatges i vídeo, per presentar informació detallada sobre els allotjaments als usuaris. Aquesta convergència de mitjans ofereix als usuaris una visió completa dels llocs disponibles per allotjar-se, ajudant-los a prendre decisions informades sobre la seva reserva.
 
+![Interfície Airbnb](https://2.bp.blogspot.com/-P7NWVPsPBOY/Vt3dW8A4vlI/AAAAAAAAAP0/obOEpiuxoZs/s1600/airbnb-bad.png)
+>Captura de la página web *Airbnb*, interfície amb imatges, text i localitzacions per a proporcionar informació a l'usuari
+>
 A més de la presentació d'informació, Airbnb fomenta la interacció i la participació de la comunitat. Permet als usuaris interactuar amb els amfitrions i altres usuaris a través de la funcionalitat de missatgeria interna i els comentaris i valoracions. 
 A més, Airbnb ofereix als usuaris la capacitat de personalitzar la seva experiència de cerca d'allotjament mitjançant filtres, criteris de cerca específics i recomanacions. Això permet als usuaris trobar allotjaments que s'adaptin millor a les seves necessitats i preferències individuals, proporcionant una experiència de reserva més personalitzada. 
+
+![Interfície Airbnb](https://lh7-us.googleusercontent.com/zdS9h7FrQ-O1I9nKGgwGQJS_XGUlyN4OC0FeN3RYdBvRliuJoxxG8iwdDz0v4yD7WOOZEg84cefP7McdAUOWiv45KJfgwSWPt6x-DLxPmHtJwOmaEinLWTa_YT9OZKqkvz_7UoYeRUQ8umVxKqeeRNk)
+>Captura de la página web *Airbnb*, interfície amb filtres per categories de forma personalizada
 
 Airbnb també ofereix informació actualitzada sobre la disponibilitat i els preus dels allotjaments en temps real, permetent als usuaris prendre decisions informades sobre les seves reserves. Això crea una experiència de reserva flexible i convenient per als viatgers, ajudant-los a planificar i organitzar el seu viatge de manera eficient.
 
 En resum, Airbnb és un exemple destacat de com la hibridació de mitjans pot crear una plataforma en línia rica i interactiva que permet als usuaris connectar-se, compartir informació i prendre decisions informades sobre el seu allotjament durant els viatges. A través de la convergència de tecnologia digital amb pràctiques tradicionals d'allotjament, Airbnb ha transformat la manera com les persones viatgen i interactuen amb els allotjaments, oferint una alternativa més autèntica i local als hotels convencionals.
 
-
+| RESUM  |   |
+| -- | -- |
+| Plataformes | **Página web i aplicació móbil** |
+| Geolocalització | **Mapa de Google Maps, localizació d'alquilers, preus i ofertes** |
+| Interacció social | **Comunicació directa via chat, comentaris i valoracions** |
+| Personalizació | **Recomanacions i filtres** |
+| Transaccions | **Pagaments i cancel·lacions** |
+| Informació | **A partir de vídeos, imatges i text** |
+___
 
 ### Referències i Bibliografia
 
@@ -75,4 +102,4 @@ http://multimedia.uoc.edu/blogs/fem/es/remediaciomultimedia-i-hibridacio-dels-mi
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
+Llicència: Material Creative Commons desenvolupat usant la llicencia CC BY-SA 4.0.
