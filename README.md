@@ -54,7 +54,7 @@ En analitzar Pokémon GO a través del prisma de Manovich, podem apreciar com re
 
 | RESUM  |   |
 | -- | -- |
-| Realitat Augmentada | **Combina mons físics i digitals, visualització i capturar de Pokémons en RA** |
+| Realitat Augmentada | **Combina mons físics i digitals, visualització i captura de Pokémons en RA** |
 | GPS | **Mapa basat en Google Maps on apareixen Pokeparades, gimnasos i events basats en ubicacions reals** |
 | Interacció social digital | **Batalles de Pokémons i inercanvis amb altres jugadors** |
 | Gamificació de l'activitat física | **Els jugadors han de caminar per aconseguir medalles per distancia i altres beneficis** |
