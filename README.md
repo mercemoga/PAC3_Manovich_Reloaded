@@ -54,10 +54,11 @@ En analitzar Pokémon GO a través del prisma de Manovich, podem apreciar com re
 
 | RESUM  |   |
 | -- | -- |
-| Realitat Augmentada | **Combina mons físics i digitals, visualització de Pokémons, capturar Pokémons en RA** |
-| Geolocalització | **Mapa basat en Google Maps, Pokeparades, gimnasos, events basats en ubicacions reals** |
+| Realitat Augmentada | **Combina mons físics i digitals, visualització i capturar de Pokémons en RA** |
+| GPS | **Mapa basat en Google Maps on apareixen Pokeparades, gimnasos i events basats en ubicacions reals** |
 | Interacció social digital | **Batalles de Pokémons i inercanvis amb altres jugadors** |
-| Gamificació de l'activitat física | **Els jugadors han de caminar per a jugar al joc, medalles per distancia recorreguda** |
+| Gamificació de l'activitat física | **Els jugadors han de caminar per aconseguir medalles per distancia i altres beneficis** |
+| Extra | **Ademés de jugar pots coneixer l'entorn i descobrir nous espais i monuments** |
 
 ## Cas 2: Airbnb
 
@@ -90,15 +91,19 @@ ___
 
 ### Referències i Bibliografia
 
--   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+-   Manovich, Lev. (2013).  **"El Software toma el mando"**. Barcelona: Editorial UOC.
 
-- Wikipedia, La enciclopedia libre.  **“Lev Manovich.”**  19 de Maig del 2024: https://es.wikipedia.org/wiki/Lev_Manovich
+- Wikipedia, La enciclopedia libre.  **"Lev Manovich."**  19 de Maig del 2024: https://es.wikipedia.org/wiki/Lev_Manovich
   
-- Ferran Adell (16 d'abril del 2014) **Remediación, multimedia e hibridación de los medios:** 
+- Ferran Adell (16 d'abril del 2014) **"Remediación, multimedia e hibridación de los medios"** 
 http://multimedia.uoc.edu/blogs/fem/es/remediaciomultimedia-i-hibridacio-dels-mitjans/
 
-- Ferran Adell (7 de març del 2013) **Nuevos Medios: Lev Manovich:** https://multimedia.uoc.edu/blogs/fem/es/fundamentos-teoriasautores-lev-manovich/
+- Ferran Adell (7 de març del 2013) **"Nuevos Medios: Lev Manovich"** https://multimedia.uoc.edu/blogs/fem/es/fundamentos-teoriasautores-lev-manovich/
 - Manovich, Lev. (2001) **"The Language of New Media"**
+- Nintenderos (19 de Gnener del 2023) **"Todo sobre la función de Amigos en Pokémon GO"** https://www.nintenderos.com/2023/01/funcion-de-amigos-en-pokemon-go/
+- Chesher, C. (2017). **"Navigating sociotechnical spaces: Comparing computer games and locative media."** Media International Australia, 165(1), 49-59.
+- BBC News (2021). **"Pokémon GO: Five ways the game changed gaming in just five years"** https://www.bbc.co.uk/newsround/57720627
+- Forbes (2021). **How Airbnb is trying to adapt to a new travel reality** https://fortune.com/2021/05/24/airbnb-post-covid-pandemic-ipo-travel-summer-2021/
 
 ----
 
