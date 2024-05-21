@@ -35,7 +35,7 @@ La premissa bàsica del joc és simple: els jugadors utilitzen els seus disposit
 
 Aquest joc combina elements de realitat augmentada (AR) amb geolocalització, interacció social, xarxes socials i comunitat ademés d’animacions e imatges. Els jugadors poden explorar el món real mentre capturen i lluiten amb Pokémons que apareixen a través de la pantalla del dispositiu mòbil. 
 
-L'aplicació utilitza el GPS del dispositiu mòbil del jugador per ubicar la seva posició al món real i col·locar Pokémons virtuals en ubicacions específiques del món real, com ara parcs, monuments i punts de referència. 
+L'aplicació utilitza el GPS del dispositiu mòbil del jugador per ubicar la seva posició al món real i col·locar Pokémons virtuals en ubicacions específiques, com ara parcs, monuments i punts de referència. 
 
 ![GPS PokémonGO](https://th.bing.com/th/id/R.15386d964717693917361dc0d848665c?rik=1ynk24TaVuaQYg&riu=http%3a%2f%2ftechguide.com.au%2fwp-content%2fuploads%2f2016%2f07%2fpokemongo3.jpg&ehk=bXepqdry7TKFpmifAHr7y%2fkpu0fYsZjsay%2bwBS2xyR4%3d&risl=&pid=ImgRaw&r=0) 
 >Captura de l'aplicació *Pokémon GO*, realitat augmentada / mapa del terreny
@@ -64,20 +64,20 @@ En analitzar Pokémon GO a través del prisma de Manovich, podem apreciar com re
 
 Després d'analitzar la hibridació en l'aplicació de Pokémon GO, és interessant explorar com Airbnb, una plataforma d'alquiler vacacional, exemplifica els conceptes de hibridació de mitjans segons Lev Manovich, encara que de manera diferent. Airbnb és un exemple destacat de com la convergència de tecnologia digital amb les pràctiques tradicionals d'allotjament ha transformat el sector del turisme.
 
-Airbnb permet als viatgers trobar i llogar allotjaments únics en llocs de tot el món, a través de la combinació de diversos elements tecnològics i socials. Aquesta plataforma combina diferents formats de mitjans, incloent text, imatges i vídeo, per presentar informació detallada sobre els allotjaments als usuaris. Aquesta convergència de mitjans ofereix als usuaris una visió completa dels llocs disponibles per allotjar-se, ajudant-los a prendre decisions informades sobre la seva reserva.
+Airbnb permet als viatgers trobar i llogar allotjaments en llocs de tot el món, a través de la combinació de diversos elements tecnològics i socials. Aquesta plataforma combina diferents formats de mitjans, incloent text, imatges i vídeo, per presentar informació detallada sobre els allotjaments als usuaris. Aquesta convinació de mitjans ofereix als usuaris una visió completa dels llocs disponibles per allotjar-se.
 
 ![Interfície Airbnb](https://2.bp.blogspot.com/-P7NWVPsPBOY/Vt3dW8A4vlI/AAAAAAAAAP0/obOEpiuxoZs/s1600/airbnb-bad.png)
 >Captura de la página web *Airbnb*, interfície amb imatges, text i localitzacions per a proporcionar informació a l'usuari
 >
-A més de la presentació d'informació, Airbnb fomenta la interacció i la participació de la comunitat. Permet als usuaris interactuar amb els amfitrions i altres usuaris a través de la funcionalitat de missatgeria interna i els comentaris i valoracions. 
-A més, Airbnb ofereix als usuaris la capacitat de personalitzar la seva experiència de cerca d'allotjament mitjançant filtres, criteris de cerca específics i recomanacions. Això permet als usuaris trobar allotjaments que s'adaptin millor a les seves necessitats i preferències individuals, proporcionant una experiència de reserva més personalitzada. 
+A més de la presentació d'informació, Airbnb fomenta la interacció i la participació de la comunitat. Permet als usuaris interactuar amb els amfitrions i altres usuaris a través de la funcionalitat de missatgeria interna, a més de comentaris i valoracions. 
+A més a més, Airbnb ofereix als usuaris la capacitat de personalitzar la seva experiència de cerca d'allotjament mitjançant filtres, criteris de cerca específics i recomanacions. Això permet als usuaris trobar allotjaments que s'adaptin millor a les seves necessitats i preferències individuals, proporcionant una experiència de reserva més personalitzada. 
 
 ![Interfície Airbnb](https://lh7-us.googleusercontent.com/zdS9h7FrQ-O1I9nKGgwGQJS_XGUlyN4OC0FeN3RYdBvRliuJoxxG8iwdDz0v4yD7WOOZEg84cefP7McdAUOWiv45KJfgwSWPt6x-DLxPmHtJwOmaEinLWTa_YT9OZKqkvz_7UoYeRUQ8umVxKqeeRNk)
 >Captura de la página web *Airbnb*, interfície amb filtres per categories de forma personalizada
 
-Airbnb també ofereix informació actualitzada sobre la disponibilitat i els preus dels allotjaments en temps real, permetent als usuaris prendre decisions informades sobre les seves reserves. Això crea una experiència de reserva flexible i convenient per als viatgers, ajudant-los a planificar i organitzar el seu viatge de manera eficient.
+Airbnb també ofereix informació actualitzada sobre la disponibilitat i els preus dels allotjaments en temps real, permetent als usuaris prendre decisions sobre les seves reserves, això crea una experiència de reserva flexible i convenient per als viatgers, ajudant-los a planificar i organitzar el seu viatge de manera eficient.
 
-En resum, Airbnb és un exemple destacat de com la hibridació de mitjans pot crear una plataforma en línia rica i interactiva que permet als usuaris connectar-se, compartir informació i prendre decisions informades sobre el seu allotjament durant els viatges. A través de la convergència de tecnologia digital amb pràctiques tradicionals d'allotjament, Airbnb ha transformat la manera com les persones viatgen i interactuen amb els allotjaments, oferint una alternativa més autèntica i local als hotels convencionals.
+En resum, Airbnb és un exemple destacat de com la hibridació de mitjans pot crear una plataforma en línia interessant i interactiva que permet als usuaris connectar-se, compartir informació i prendre decisions sobre el seu allotjament durant els viatges. A través de la convergència de tecnologia digital amb pràctiques tradicionals d'allotjament, Airbnb ha transformat la manera com les persones viatgen i interactuen amb els allotjaments, oferint una alternativa més autèntica i local als hotels convencionals.
 
 | RESUM  |   |
 | -- | -- |
