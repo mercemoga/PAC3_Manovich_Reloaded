@@ -1,7 +1,7 @@
 # PEC3: Visionant el futur amb les ulleres de Manovich
 ### Dos exemples d'hibridació contemporanis: Pokémon GO i Airbnb
 
-**Alumna:** Mercè Moga Minguet / **Profesor:** Ramon García Sedó
+**Alumna:** Mercè Moga Minguet. / **Profesor:** Ramon García Sedó
 
 *Cultura Digital - Grau Multimedia - 27/05/2024*
 
