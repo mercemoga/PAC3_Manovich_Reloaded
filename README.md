@@ -18,7 +18,7 @@ Manovich, en la seva obra, afirma que la hibridació es refereix a la combinaci�
 
 L’autor afirma que una part important de la hibridació és que els nous mitjans digitals no només reemplacen els mitjans tradicionals, sinó que els transformen i combinen en noves formes. 
 
-Un exemple que Manovich esmenta és Google Earth, on es combina fotografia aèria, imatges satel·litàries, gràfics 3D i altres mitjans per produir una representació híbrida del planeta Terra. En aquests exemples ens adonem que estem convivint constantment al voltant de la hibridació.
+Un exemple que Manovich esmenta és Google Earth, on es combina fotografia aèria, imatges satèl·lit, gràfics 3D i altres mitjans per produir una representació híbrida del planeta Terra. En aquests exemples ens adonem que estem convivint constantment al voltant de la hibridació.
 
 >Convivim amb multitud d'exemples d'híbrids de mitjans: els trobarem en les interfícies d'usuari, les aplicacions web, les apps mòbils, el disseny visual,
 >el disseny interactiu, els efectes visuals, els mitjans locatius, els entorns interactius, l'art digital i altres àmbits de la cultura digital. **Lev Manovich,
